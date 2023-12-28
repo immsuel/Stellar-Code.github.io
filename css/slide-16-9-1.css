@@ -1,0 +1,969 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 70rem;
+}.slide-16-9-1-R1w {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #eec9d2;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm {
+  width: 84.0657rem;
+  height: 113.16rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .recipe-qdP {
+  width: 19.3rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 7.1rem;
+  font-size: 5.68rem;
+  font-weight: 400;
+  line-height: 1.39;
+  text-transform: uppercase;
+  color: #4c4c4c;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-1-HVP {
+  width: 19.3rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 15.8rem;
+  background-color: #eee3e7;
+  border-radius: 2.1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .cook-time--NWq {
+  width: 9.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 18.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #626262;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .min-preparation-rS1 {
+  width: 12.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 21.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .min-cooking-xV3 {
+  width: 9.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 23.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-5-53s {
+  width: 34.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 30.7rem;
+  top: 8.8rem;
+  background-color: #eee3e7;
+  border-radius: 2.1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-3-zRj {
+  width: 19.3rem;
+  height: 61.7rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 38.9rem;
+  background-color: #eee3e7;
+  border-radius: 2.1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-4-uob {
+  width: 34.7rem;
+  height: 61.7rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 38.9rem;
+  background-color: #eee3e7;
+  border-radius: 2.1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-2-qhF {
+  width: 34.7rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 15.8rem;
+  background-color: #ead5dc;
+  border-radius: 2.1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-6-YLm {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 44.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-23-sP3 {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 47.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-25-BPj {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 53.3rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-27-WB7 {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 58.9rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-29-RJ5 {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 64.5rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-31-kLM {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 70.1rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-33-gE1 {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 75.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-35-Qfo {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 81.3rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-37-vu3 {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 86.9rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-39-Tty {
+  width: 32.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 92.5rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-7-ze1 {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 49.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-8-8VK {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 53.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-9-fk9 {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 58.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-10-Ck5 {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 62.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-11-8td {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 67.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-12-rpd {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 71.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-13-C7o {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 76.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-14-KTK {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 80.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-40-TZX {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 85.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-16-o7b {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 89.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-17-XJV {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 94.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-15-3Xj {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 85.2rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .rectangle-20-nER {
+  width: 16.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 107.7rem;
+  background-color: #eec9d2;
+  border-radius: 1rem;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .bgf8f8f8-flat750x075f-pad750x1000f8f8f8-1-hsB {
+  width: 16.6814rem;
+  height: 16.2517rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-4-ofK {
+  width: 7.7163rem;
+  height: 5.4681rem;
+  position: absolute;
+  left: 1rem;
+  top: 59.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-5-JMB {
+  width: 7.7163rem;
+  height: 5.4681rem;
+  position: absolute;
+  left: 0;
+  top: 55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-1-Qf7 {
+  width: 12.6022rem;
+  height: 7.5681rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-1-Qf7 .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-1-jSV {
+  margin: 2.1rem 0.584rem 0rem 0rem;
+  width: 7.7163rem;
+  height: 5.4681rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-1-Qf7 .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-2-R4R {
+  width: 4.3022rem;
+  height: 4.2723rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-3-8Ud {
+  width: 12.0488rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 26.9rem;
+  top: 100.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-2-exm {
+  width: 12.6022rem;
+  height: 7.5681rem;
+  position: absolute;
+  left: 59.1rem;
+  top: 31.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-2-exm .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-1-zWq {
+  margin: 2.1rem 0.584rem 0rem 0rem;
+  width: 7.7163rem;
+  height: 5.4681rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .group-2-exm .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-2-HVw {
+  width: 4.3022rem;
+  height: 4.2723rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-3-Cso {
+  width: 4.3022rem;
+  height: 4.2723rem;
+  position: absolute;
+  left: 36.7rem;
+  top: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0325-cute-hand-drawn-smiley-cloud-sticker-free-clipart-editable-vector-clipartify-6-Jvq {
+  width: 4.4431rem;
+  height: 4.4274rem;
+  position: absolute;
+  left: 66.0149rem;
+  top: 55.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .wm-removebg-preview-1-Dnu {
+  width: 23.9174rem;
+  height: 20.1474rem;
+  position: absolute;
+  left: 48.3rem;
+  top: 91.1331rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .berry-removebg-preview-1-jWM {
+  width: 21.4843rem;
+  height: 25.4966rem;
+  position: absolute;
+  left: 0;
+  top: 85.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .lemon-removebg-preview-1-GWH {
+  width: 15.9342rem;
+  height: 19.36rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 92.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .vacado-removebg-preview-1-njX {
+  width: 23.0657rem;
+  height: 25.7475rem;
+  position: absolute;
+  left: 55.9rem;
+  top: 70.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-1-KUZ {
+  width: 5.5218rem;
+  height: 5.6941rem;
+  position: absolute;
+  left: 17.5891rem;
+  top: 3.0029rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-1-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-2-285 {
+  width: 3.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 1.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-2-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-4-KN5 {
+  width: 3.1402rem;
+  height: 3.0682rem;
+  position: absolute;
+  left: 23.3299rem;
+  top: 13.5159rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-4-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-6-33B {
+  width: 5.5693rem;
+  height: 5.4645rem;
+  position: absolute;
+  left: 0.1654rem;
+  top: 6.9178rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-6-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-7-ZXK {
+  width: 3.5741rem;
+  height: 3.4137rem;
+  position: absolute;
+  left: 0.6629rem;
+  top: 25.9432rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-7-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-8-tJh {
+  width: 3.8rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 34.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-8-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-9-CqB {
+  width: 5.1005rem;
+  height: 4.9599rem;
+  position: absolute;
+  left: 24.0497rem;
+  top: 37.2201rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-9-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-17-iYd {
+  width: 5.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 66rem;
+  top: 62.3rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-17-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-18-357 {
+  width: 5.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 64.5rem;
+  top: 15.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-18-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-10-AQd {
+  width: 3.6rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 67.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-10-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-11-fMP {
+  width: 5.1613rem;
+  height: 5.2186rem;
+  position: absolute;
+  left: 24.1612rem;
+  top: 76.3584rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-11-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-13-nB7 {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 27.3rem;
+  top: 104.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-13-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-14-VrD {
+  width: 4.1777rem;
+  height: 4.3157rem;
+  position: absolute;
+  left: 39.5rem;
+  top: 104.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-14-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-15-25T {
+  width: 3.7305rem;
+  height: 3.8114rem;
+  position: absolute;
+  left: 47.2847rem;
+  top: 100.8943rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-15-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-16-wTK {
+  width: 3.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 104.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-16-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .star-removebg-preview-12-4Xw {
+  width: 2.7495rem;
+  height: 2.8293rem;
+  position: absolute;
+  left: 21.8rem;
+  top: 101.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-12-bg.png');
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0311-doodle-heart-free-clipart-editable-vector-clipartify-1-zRb {
+  width: 6.6282rem;
+  height: 6.6282rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0311-doodle-heart-free-clipart-editable-vector-clipartify-2-JhB {
+  width: 6.6192rem;
+  height: 6.6192rem;
+  position: absolute;
+  left: 0;
+  top: 67.9341rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0311-doodle-heart-free-clipart-editable-vector-clipartify-6-2dB {
+  width: 5.4751rem;
+  height: 5.4751rem;
+  position: absolute;
+  left: 0.1647rem;
+  top: 32.6647rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0311-doodle-heart-free-clipart-editable-vector-clipartify-4-9ho {
+  width: 6.768rem;
+  height: 6.768rem;
+  position: absolute;
+  left: 42.6597rem;
+  top: 101.0597rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .a0311-doodle-heart-free-clipart-editable-vector-clipartify-5-UEH {
+  width: 3.638rem;
+  height: 3.638rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 45.3548rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .i-picked-these-mediterranean-stuffed-peppers-because-they-remind-me-of-athenas-wisdom-just-like-i-see-in-you-clever-and-insightful-the-mix-of-quinoa-feta-olives-and-tomatoes-not-only-makes-a-tasty-dish-but-also-represents-the-way-you-thoughtfully-blend-flavors-in-everything-you-do-BPb {
+  width: 27.6rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 20.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .notes-x2y {
+  width: 5.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 17.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #626262;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .ingredients--fTB {
+  width: 10.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 40.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #626262;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .ingredients--n21 {
+  width: 10.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 40.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #626262;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .athenas-mediterranean-stuffed-peppers-VBK {
+  width: 23.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 10rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #626262;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .large-bell-peppers-ysB {
+  width: 13.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 45.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .preheat-the-oven-to-375f-190c-tDT {
+  width: 22.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 45.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .cut-the-tops-off-the-bell-peppers-and-remove-seeds-and-membranes-Agm {
+  width: 30.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 49.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .in-a-large-bowl-mix-cooked-quinoa-feta-cheese-olives-tomatoes-olive-oil-and-herbs-SPP {
+  width: 31rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 54.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .stuff-each-bell-pepper-with-the-quinoa-mixture-ibo {
+  width: 30.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 61.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .place-the-stuffed-peppers-in-a-baking-dish-and-bake-for-30-35-minutes-chB {
+  width: 31.1rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 66.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .serve-warm-and-garnish-with-additional-herbs-if-desired-uRP {
+  width: 29.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 71.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .cup-cooked-quinoa-CvH {
+  width: 12.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 49.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .cup-feta-cheese-j9X {
+  width: 11.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 9rem;
+  top: 54.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .cup-chopped-olives-Ery {
+  width: 14.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 58.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .tablespoons-olive-oil-9j3 {
+  width: 14rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 67.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .mediterranean-herbs-rtM {
+  width: 13.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 72.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .salt-and-pepper-to-taste-mkR {
+  width: 15rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 76.8rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .auto-group-zv9d-FWm .cup-diced-cherry-tomatoes-t4M {
+  width: 14.7rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 63.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #000000;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.slide-16-9-1-R1w .star-removebg-preview-5-NkD {
+  margin: 13.6rem 26.5rem 0rem 0rem;
+  width: 5.1rem;
+  height: 4.9rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-5-bg.png');
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-z93q-gW1 {
+  margin: 23.4rem 12.1rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-z93q-gW1 .star-removebg-preview-3-QB7 {
+  margin: 0rem 0rem 35.231rem 3.854rem;
+  width: 5.1rem;
+  height: 4.9rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/star-removebg-preview-3-bg.png');
+  flex-shrink: 0;
+}
+.slide-16-9-1-R1w .auto-group-z93q-gW1 .a0311-doodle-heart-free-clipart-editable-vector-clipartify-3-K3B {
+  width: 5.0874rem;
+  height: 5.0874rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
