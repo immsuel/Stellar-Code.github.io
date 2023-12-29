@@ -17,10 +17,13 @@ jobs:
 
     - name: Clean _site Directory
       run: rm -rf /github/workspace/_site
-      
-    - uses: actions/checkout@v3
+
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        -v ${{ github.workspace }}:/srv/jekyll \
+        -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "jekyll build --future"
+
+    - name: Remove _site/assets Directory
+      run: rm -rf /github/workspace/_site/assets
