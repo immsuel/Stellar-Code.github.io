@@ -18,19 +18,19 @@ jobs:
 
       - name: Create Directories
         run: |
-          mkdir -p /github/workspace/_site
-          mkdir -p /github/workspace/_site/assets
+          mkdir -p $GITHUB_WORKSPACE/_site
+          mkdir -p $GITHUB_WORKSPACE/_site/assets
 
       - name: Check Directory Ownership
         run: |
           docker run \
-            -v ${{ github.workspace }}:/srv/jekyll \
-            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+            -v $GITHUB_WORKSPACE:/srv/jekyll \
+            -v $GITHUB_WORKSPACE/_site:/srv/jekyll/_site \
             jekyll/builder:latest /bin/bash -c "ls -la /srv/jekyll /srv/jekyll/_site"
 
       - name: Build the site in the jekyll/builder container
         run: |
           docker run \
-            -v ${{ github.workspace }}:/srv/jekyll \
-            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+            -v $GITHUB_WORKSPACE:/srv/jekyll \
+            -v $GITHUB_WORKSPACE/_site:/srv/jekyll/_site \
             jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
