@@ -2,35 +2,35 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Clean _site Directory
-      run: rm -rf /github/workspace/_site
+      - name: Create Directories
+        run: |
+          mkdir -p /github/workspace/_site
+          mkdir -p /github/workspace/_site/assets
 
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll \
-        -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "mkdir -p /srv/jekyll/.jekyll-cache && chmod -R 777 /srv/jekyll && jekyll build --future"
+      - name: Check Directory Ownership
+        run: |
+          docker run \
+            -v ${{ github.workspace }}:/srv/jekyll \
+            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+            jekyll/builder:latest /bin/bash -c "ls -la /srv/jekyll /srv/jekyll/_site"
 
-    - name: Remove _site/assets Directory
-      run: rm -rf /github/workspace/_site/assets
-
-    - name: Check Directory Ownership
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll \
-        -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "ls -la /srv/jekyll /srv/jekyll/.jekyll-cache"
+      - name: Build the site in the jekyll/builder container
+        run: |
+          docker run \
+            -v ${{ github.workspace }}:/srv/jekyll \
+            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+            jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
