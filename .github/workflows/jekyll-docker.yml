@@ -20,7 +20,7 @@ jobs:
         run: |
           mkdir -p $GITHUB_WORKSPACE/_site
           mkdir -p $GITHUB_WORKSPACE/_site/assets
-          
+
       - name: Set Permissions
         run: |
           sudo chown -R $USER:$USER $GITHUB_WORKSPACE
@@ -37,4 +37,5 @@ jobs:
           docker run \
             -v $GITHUB_WORKSPACE:/srv/jekyll \
             -v $GITHUB_WORKSPACE/_site:/srv/jekyll/_site \
-            jekyll/builder:latest /bin/bash -c "jekyll build --future"
+            jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+
